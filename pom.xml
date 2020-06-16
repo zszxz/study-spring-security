@@ -6,6 +6,8 @@
     <modules>
         <module>security-hello</module>
         <module>security-form</module>
+        <module>security-depart</module>
+        <module>security-logout</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
