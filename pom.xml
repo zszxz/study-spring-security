@@ -8,6 +8,7 @@
         <module>security-form</module>
         <module>security-depart</module>
         <module>security-logout</module>
+        <module>security-annotation</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
