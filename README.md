@@ -4,6 +4,12 @@
 本套源码地址：https://github.com/zszxz/study-spring-security
 不得用于商业用途，仅供个人学习！
 
+# 个人网站
+
+个人网站中不仅包含了只知识追寻者的个人教程文章，也转载了非常多优秀的文章，面试题供大家学习！
+希望大家可以在知识追寻者提供的资料上学习进步，拼搏出一个美好未来；
+个人网站: https://zszxz.com/index
+
 # 其它教程
 
 2020 年，知识追寻者开源了一套 权限管理系统，基于 springboot + vue 开发，前后端分离系统；希望大家多多支持；源码地址：https://github.com/zszxz/zboot
